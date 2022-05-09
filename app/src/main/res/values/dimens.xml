@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_margin">1dp</dimen>
+    <dimen name="folder_column_width">120dp</dimen>
+    <dimen name="picture_column_width">90dp</dimen>
+</resources>
